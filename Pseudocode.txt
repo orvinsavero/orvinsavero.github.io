@@ -1,0 +1,50 @@
+Pseudocode Challenge
+
+1. Newton Second Law
+
+STORE “m” with any value
+STORE “a” with any value
+STORE "ΣF" without any value
+
+CALCULATE “m” times “a”
+SET “result” value with calculation result
+
+DISPLAY “result”
+
+
+
+2. Tahun Kabisat
+
+STORE “year” to any number
+
+IF “year” % 4 = 0  && “year” % 100 != 0 OR “year” % 4 = 0  && “year” % 100 = 0 && “year” % 400 = 0
+    DO “lunar year”
+
+ELSE
+    DO “not lunar year”
+
+
+
+3. Laundry Day
+
+STORE "full level" with 0
+
+WHILE "full level" < 20
+  ADD "full level" by 1
+
+DISPLAY “power on”
+
+
+
+4. Periksa Kuku
+
+STORE “student” to 1
+
+WHILE “student” < 40
+	DISPLAY “student”
+    
+	IF “student” = “long nails”
+		DISPLAY “punished”
+	ELSE 
+		DISPLAY “praised”
+	
