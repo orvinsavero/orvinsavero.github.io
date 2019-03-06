@@ -2,7 +2,7 @@
 .photo1 {
     width: 120px;
     height: auto;
-    border:1px solid black;
+    border: 1px solid black;
     margin-left: 40px;
     margin-top: 50px;
 }
@@ -14,14 +14,14 @@
 .photo2 {
     width: 60px;
     height: auto;
-    border:1px solid black;
+    border: 1px solid black;
     margin-left: 40px;
 }
 
 .photo3 {
     width: 60px;
     height: auto;
-    border:1px solid black;
+    border: 1px solid black;
 
 }
 body{
